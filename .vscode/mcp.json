@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "vaultcord": {
+      "type": "http",
+      "url": "https://ai.vaultcord.com/mcp"
+    }
+  }
+}
